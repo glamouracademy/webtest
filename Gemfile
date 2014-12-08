@@ -1,0 +1,1 @@
+gem "contentful_middleman"
